@@ -1,0 +1,8 @@
+Assets/HDRIs/HDR_040_Field.hdr filter=lfs diff=lfs merge=lfs -text
+Assets/HDRIs/HDR_galactic_plane_hazy_nebulae.hdr filter=lfs diff=lfs merge=lfs -text
+Assets/HDRIs/HDR_white_local_star.hdr filter=lfs diff=lfs merge=lfs -text
+Assets/HDRIs/RenderCrate-HDRI_Orbital_38.exr filter=lfs diff=lfs merge=lfs -text
+Assets/HDRIs/ringed_gas_giant_planet.hdr filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/H2A_RocketStage_Updated.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/uploads_files_949332_Solar_orbiter.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Textures/H2A_Rocket_textures.rar filter=lfs diff=lfs merge=lfs -text
